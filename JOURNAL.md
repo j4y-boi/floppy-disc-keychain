@@ -26,3 +26,13 @@ Which after a few small modifications made this preview 3D render of the board.
 
 Currently the hole for the keyring itself is just a via with a 3mm diameter. I'm not sure if this'll work out but I sure hope it will lmao  
 
+## 10/9/2025 - Made a v2 of the board  
+
+First, I improved the v1 of the board by reworking some small parts of the wiring, I also added a button (woah) so that the NFC functionality can be enabled at will so your phone and your keys dont go into a notification war.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0NywicHVyIjoiYmxvYl9pZCJ9fQ==--af738d5139c7e88944094d09c6b896aefd5fcf7b/image.png)
+Also here's a 3D render of the board:
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0OCwicHVyIjoiYmxvYl9pZCJ9fQ==--54ce86d4b4177c0aebbd65f41e4a7bdb0ba1220f/image.png)
+And the backside's now got this fancy shmancy NFC icon
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--945877ee77284f97a537fe3f41f28c7bfc0e66f7/image.png)
+I'll probably add the back of the floppy disk later.  
+
