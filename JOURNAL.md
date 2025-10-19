@@ -10,13 +10,13 @@ This is my journal of the design and building process of **Floppy Keychain**.
 You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/285).
 
 
-## 10/7/2025 2 PM - Made a sketch, finished schematic.  
+## 10/7/2025 4 PM - Made a sketch, finished schematic.  
 
 Made this sketch:
 ![azdazdazdazd.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6OTIwLCJwdXIiOiJibG9iX2lkIn19--28b2648a53696fe2953524000509603d952c8d0e/azdazdazdazd.png)
 Then started working on schematic, I fiddled around for around 30 minutes before remembering that Hack Club already has a NFC tutorial and followed a small part of that. Then made some modifications to said schematic and proceeded to begin work on routing PCB.  
 
-## 10/7/2025 3 PM - Made a really crappy v1 of the board  
+## 10/7/2025 5 PM - Made a really crappy v1 of the board  
 
 After managing to get through pcb routing hell, I managed to make this 'lil blueprint (25mmx25mm):
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTUwLCJwdXIiOiJibG9iX2lkIn19--5d7dfa0bb6e5e621f02afc83c0e61c9cb112a01f/image.png)
@@ -35,4 +35,17 @@ Also here's a 3D render of the board:
 And the backside's now got this fancy shmancy NFC icon
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTI0OSwicHVyIjoiYmxvYl9pZCJ9fQ==--945877ee77284f97a537fe3f41f28c7bfc0e66f7/image.png)
 I'll probably add the back of the floppy disk later.  
+
+## 10/19/2025 - Made a v3 of the board!  
+
+After a few helpful people on Slack pointed out the fact that my traces on the front of the board would affect the range and functionality of the antenna on the back, I was thankful for the fact that it was pointed out and decided to rework parts of the board. After struggling with some wires that refused to connect (check nets if it happens to you), I finally have a v3 of the board!
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM1OCwicHVyIjoiYmxvYl9pZCJ9fQ==--48ff76ad2e9f38f3b6e3b1468d4cfe5a7ca0087e/image.png)
+
+As you can see in this image, I moved down the antenna and made it a bit smaller so it fit onto the bottom part of the board. I hope that'll reduce interference and make it hopefully work. I also had to move the NFC icon to the corner to make space for the rest of the floppy disk graphics on the back.
+
+While the final board is going to be black, here is a few 3D images of the board in blue so the traces stick out a bit more.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--89f9e047d865ecacc7ed6a5b6125e366cdd0d64f/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7aeea59ed31adf05f7f4fa393a1960eaf074d0df/image.png)
+
+  
 
