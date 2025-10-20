@@ -23,6 +23,8 @@ BOM:
 This is just for the PCB part, if you want to actually also make the keychain part, you'll need some keychain split rings, a keyring, and (if necessary, a normal pair of pliers should do fine) some keychain pliers.
 
 ## Images
+(I also sincerely apologize for the low quality images, but I'll throw my laptop off of the second floor if I have to go through EasyEDA to KiCad conversion.)
+
 <img width="602" height="606" alt="image" src="https://github.com/user-attachments/assets/944e015e-8c1c-44e6-8290-82e3451693ba" />
 
 The schematic of the PCB
