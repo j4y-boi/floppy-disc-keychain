@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **Floppy Keychain**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/285).
-
-
 ## 10/7/2025 4 PM - Made a sketch, finished schematic.  
 
 Made this sketch:
@@ -47,5 +43,13 @@ While the final board is going to be black, here is a few 3D images of the board
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2MCwicHVyIjoiYmxvYl9pZCJ9fQ==--89f9e047d865ecacc7ed6a5b6125e366cdd0d64f/image.png)
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzM2MSwicHVyIjoiYmxvYl9pZCJ9fQ==--7aeea59ed31adf05f7f4fa393a1960eaf074d0df/image.png)
 
+  
+
+## 10/20/2025 - Research  
+
+I actually did some research on how to make a keychain and learnt that they are in fact supposed to be connected to a "split ring", which is just a smaller ring. So doing that research I also learnt about the fact I need "special pliers" or something (which is a bit stupid, I looked it up and it was just a pair of pliers but a bit smaller). I could probably live with normal pliers and just buying the rings.
+
+Also, here's the board again, this time in black with a silver finish. I also shrunk the hole and moved it a bit so it'd fit the ring.
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c08ea04eb007edbabe533169dde21598ba1589f9/image.png)
   
 
