@@ -8,6 +8,8 @@ It's, well, a keychain in the shape of a floppy disc. It has very awesome amazin
 - Being a PCB (with NFC :0)
 - Being **NOT** waterproof (unless you or I make a case)
 
+If you'd like to see the process of making this thing I recommend you check out [the journal](https://github.com/j4y-boi/floppy-disc-keychain/blob/main/JOURNAL.md).
+
 ## Technical specifications and other stuff
 Size: 25mm x 25mm
 
