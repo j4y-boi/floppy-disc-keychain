@@ -45,11 +45,19 @@ While the final board is going to be black, here is a few 3D images of the board
 
   
 
-## 10/20/2025 - Research  
+## 10/20/2025 5 PM - Research  
 
 I actually did some research on how to make a keychain and learnt that they are in fact supposed to be connected to a "split ring", which is just a smaller ring. So doing that research I also learnt about the fact I need "special pliers" or something (which is a bit stupid, I looked it up and it was just a pair of pliers but a bit smaller). I could probably live with normal pliers and just buying the rings.
 
 Also, here's the board again, this time in black with a silver finish. I also shrunk the hole and moved it a bit so it'd fit the ring.
 ![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Mzc0MCwicHVyIjoiYmxvYl9pZCJ9fQ==--c08ea04eb007edbabe533169dde21598ba1589f9/image.png)
   
+
+## 10/20/2025 10 PM - README and suffering  
+
+SO first, I made a README (wow) here's an image of it, you can also find it on the repo:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MzgwNiwicHVyIjoiYmxvYl9pZCJ9fQ==--b02d0d30eaa10128d7cf402546ba02ce837a1f3d/image.png)
+
+Also I tried making better quality images of the board, but the suffering involved with EasyEDA and KiCAD. That is what made me give up on rendering. The standard 3D images will do for now.  
 
