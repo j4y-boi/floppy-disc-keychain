@@ -72,3 +72,8 @@ Stupid amazon listings didnt show thickness of the wire of the ring, i had to di
 Stupid amazon listings didnt show thickness of the wire of the ring, i had to dig around for one that was similar in size and did note thickness. Had to move the keyringhole (i dont know vocabulary) and make it smaller. Also ordered the PCB, $21.05 for a PCB + Components + Taxes paid is a pretty damn good deal.
 ![adzazdadz.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--39db0a629f9d9f5cc15ff30f1c3f043cca988417/adzazdadz.png)  
 
+## 10/21/2025 11:21 PM - Ordered PCB + last minute fixes  
+
+Stupid amazon listings didnt show thickness of the wire of the ring, i had to dig around for one that was similar in size and did note thickness. Had to move the keyringhole (i dont know vocabulary) and make it smaller. Also ordered the PCB, $21.05 for a PCB + Components + Taxes paid is a pretty damn good deal.
+![adzazdadz.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--39db0a629f9d9f5cc15ff30f1c3f043cca988417/adzazdadz.png)  
+
