@@ -67,3 +67,13 @@ Stupid amazon listings didnt show thickness of the wire of the ring, i had to di
 ![adzazdadz.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDE5MSwicHVyIjoiYmxvYl9pZCJ9fQ==--39db0a629f9d9f5cc15ff30f1c3f043cca988417/adzazdadz.png)
   
 
+## 10/22/2025 - Random update unrelated to progress  
+
+So after ordering yesterday I came to realize JLC makes automatic tooling holes for PCBA lmao
+THIS is what the found ideal lols:
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NDU3MSwicHVyIjoiYmxvYl9pZCJ9fQ==--4d4553e18a9ade55e1c32630ec09f1521c8f6d84/image.png)
+
+I've asked the engineer people if they possibly could move the tooling holes a bit more to the corners
+  
+
