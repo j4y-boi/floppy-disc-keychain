@@ -77,3 +77,11 @@ THIS is what the found ideal lols:
 I've asked the engineer people if they possibly could move the tooling holes a bit more to the corners
   
 
+## 10/30/2025 - Everything's on its way  
+
+Finally ordered everything! The PCB was ordered already, but its now also on its way from China! I also ordered the split rings and some pliers (because I dont have any augh). The PCBs are probably arriving sometime next week, the pliers and split rings are arriving on the 3rd of november. 
+I also let the JLC people know that I would like that the holes be moved more to the corners, the request was noted as "accepted" but they didn't change it (sad). I'll probably start assembly when they all arrive.
+
+![adzazdadz](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjczNiwicHVyIjoiYmxvYl9pZCJ9fQ==--c80264a1ee685869af0bcebe46b3af9271823853/adzazdadz.png)
+  
+
