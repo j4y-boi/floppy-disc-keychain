@@ -85,3 +85,20 @@ I also let the JLC people know that I would like that the holes be moved more to
 ![adzazdadz](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjczNiwicHVyIjoiYmxvYl9pZCJ9fQ==--c80264a1ee685869af0bcebe46b3af9271823853/adzazdadz.png)
   
 
+## 11/5/2025 - Finished assembly!  
+
+So after a few days everything arrived! Unfortunately the pliers weren't that great for the job, getting a grip on the small rings was really difficult. Everything else in the assembly did go great. Here are some images:
+
+The first assembled keychain:
+![IMG_7882](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcxMywicHVyIjoiYmxvYl9pZCJ9fQ==--5461966a6ecd8b2b9a3e8bc7cab14a213790310d/IMG_7882.jpeg)
+
+The first two assembled keychains:
+![IMG_7884](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcxMSwicHVyIjoiYmxvYl9pZCJ9fQ==--2d32f6f9ada503df8cbd854533759bb85d67eefb/IMG_7884.jpeg)
+
+The PCB without the keychain part:
+![IMG_7881](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6ODcxMiwicHVyIjoiYmxvYl9pZCJ9fQ==--4d56b7f52aabb1578f62fde7bbe1a91925c6c76f/IMG_7881.jpeg)
+
+The keychain also has a small engraving on the backside with my username for **A U T H E N T I C I T Y**. In total I made five of these, which means I've got 15 keychain ring sets over lmao
+Overall, I found this project quite fun to make and it was a great learning experience.
+  
+
