@@ -100,5 +100,10 @@ The PCB without the keychain part:
 
 The keychain also has a small engraving on the backside with my username for **A U T H E N T I C I T Y**. In total I made five of these, which means I've got 15 keychain ring sets over lmao
 Overall, I found this project quite fun to make and it was a great learning experience.
+
+Also here's a list of things I'd like to change maybe later sometime:
+- Replace the button on the keychain with a switch
+- Get/find pliers that aren't complete crap
+- Add manual tooling holes so the PCB doesn't have two random holes
   
 
